@@ -3,11 +3,11 @@
   <img style="width:90%; height:auto" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/> 
 </p>
 
-<h1 align="center">¡Hola! Soy Fabricio Grimaldo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center">¡Hola! Soy Fabricio ._. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
 
-Soy estudiante de **Ingeniería de Sistemas de Información** en la **UPC (Universidad Peruana de Ciencias Aplicadas)** 🇵🇪. Me apasiona el diseño, modelado y administración de bases de datos, así como el análisis de datos para la toma de decisiones. 
+Soy estudiante de **Ingeniería de Sistemas de Información** en la **UPC (Universidad Peruana de Ciencias Aplicadas)** 🇵🇪.
 
 - 📚 Actualmente cursando mi carrera en la UPC.
 - 🌱 Aprendiendo activamente: **Modelado de Datos Avanzado (DBML/SQL)** y **Power BI**.
