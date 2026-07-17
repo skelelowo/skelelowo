@@ -12,7 +12,6 @@ Soy estudiante de **Ingeniería de Sistemas de Información** en la **UPC (Unive
 - 📚 Actualmente cursando mi carrera en la UPC y profundizando en arquitectura de datos.
 - 🌱 Aprendiendo activamente: **Modelado de Datos Avanzado (DBML/SQL)**, **Cloud Computing (AWS/Azure)** y **Power BI**.
 - 💡 Me interesa mucho el análisis de datos, el desarrollo backend y las tecnologías en la nube.
-- 🎯 Mi meta a corto plazo es asegurar mis prácticas pre-profesionales en el área de sistemas/datos.
 - 💬 Pregúntame sobre SQL, bases de datos o metodologías de diseño de sistemas.
 
 ---
