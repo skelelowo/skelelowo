@@ -7,16 +7,14 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
 
-Soy estudiante de **Ingeniería de Sistemas de Información** en la **UPC (Universidad Peruana de Ciencias Aplicadas)** 🇵🇪. Me apasiona el diseño, modelado y administración de bases de datos, así como el análisis de datos para la toma de decisiones. Disfruto resolver problemas lógicos, optimizar consultas y explorar la infraestructura en la nube para crear soluciones eficientes y escalables.
+Soy estudiante de **Ingeniería de Sistemas de Información** en la **UPC (Universidad Peruana de Ciencias Aplicadas)** 🇵🇪. Me apasiona el diseño, modelado y administración de bases de datos, así como el análisis de datos para la toma de decisiones. 
 
-- 📚 Actualmente cursando mi carrera en la UPC y profundizando en arquitectura de datos.
-- 🌱 Aprendiendo activamente: **Modelado de Datos Avanzado (DBML/SQL)**, **Cloud Computing (AWS/Azure)** y **Power BI**.
+- 📚 Actualmente cursando mi carrera en la UPC.
+- 🌱 Aprendiendo activamente: **Modelado de Datos Avanzado (DBML/SQL)** y **Power BI**.
 - 💡 Me interesa mucho el análisis de datos, el desarrollo backend y las tecnologías en la nube.
-- 💬 Pregúntame sobre SQL, bases de datos o metodologías de diseño de sistemas.
-
 ---
 
-### 🛠 &nbsp;Mis Tecnologías (Tech Stack)
+### 🛠 &nbsp;Mis Tecnologías
 
 #### 💻 Lenguajes y Desarrollo Frontend/Backend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
