@@ -48,12 +48,4 @@ Soy estudiante de **Ingeniería de Sistemas de Información** en la **UPC (Unive
   </a>
 </p>
 
----
 
-### 🤝🏻 &nbsp;¡Conectemos!
-
-<p align="center">
-<!-- Reemplaza los enlaces con tus perfiles reales cuando los tengas listos -->
-<a href="TU_LINK_DE_LINKEDIN"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-</p>
