@@ -39,12 +39,12 @@ Soy estudiante de **Ingeniería de Sistemas de Información** en la **UPC (Unive
 ### <h2>⚙️ Github Stats:</h2> 
 
 <p align="center">
-  <!-- REEMPLAZA "TuUsuarioDeGitHub" con tu nombre de usuario real de GitHub en los enlaces de abajo -->
-  <a href="https://github.com/TuUsuarioDeGitHub">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TuUsuarioDeGitHub&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <!-- REEMPLAZA "skelelowo" con tu nombre de usuario real de GitHub en los enlaces de abajo -->
+  <a href="https://github.com/skelelowo">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=skelelowo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/TuUsuarioDeGitHub">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TuUsuarioDeGitHub&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/skelelowo">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skelelowo&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
