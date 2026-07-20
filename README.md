@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- Puedes buscar un banner que te guste o dejar este de coding -->
-  <img style="width:90%; height:auto" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/> 
+  <img style="width:90%; height:auto" alt="Mario Pensando" src="https://media1.tenor.com/m/gMdb2qAHxXEAAAAC/mario-thinking.gif"/>
 </p>
 
 <h1 align="center">¡Hola! Soy Fabricio ._. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
