@@ -9,9 +9,7 @@
 Soy estudiante de **Ingeniería de Sistemas de Información** en la **UPC (Universidad Peruana de Ciencias Aplicadas)** 🇵🇪.
 
 - 📚 Actualmente cursando mi carrera en la UPC.
-- 🌱 Aprendiendo activamente: **Modelado de Datos Avanzado (DBML/SQL)** y **Power BI**.
-- 💡 Me interesa mucho el análisis de datos, el desarrollo backend y las tecnologías en la nube.
----
+- 🌱 Aprendiendo: **Modelado de Datos Avanzado (DBML/SQL)** y **Power BI**.
 
 ### 🛠 &nbsp;Mis Tecnologías
 
@@ -38,7 +36,6 @@ Soy estudiante de **Ingeniería de Sistemas de Información** en la **UPC (Unive
 ### <h2>⚙️ Github Stats:</h2> 
 
 <p align="center">
-  <!-- REEMPLAZA "skelelowo" con tu nombre de usuario real de GitHub en los enlaces de abajo -->
   <a href="https://github.com/skelelowo">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=skelelowo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
