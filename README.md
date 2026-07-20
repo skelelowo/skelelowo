@@ -38,10 +38,7 @@ Soy estudiante de **Ingeniería de Sistemas de Información** en la **UPC (Unive
 <p align="center">
   <a href="https://github.com/skelelowo">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=skelelowo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/skelelowo">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skelelowo&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+  
 </p>
 
 
